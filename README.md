@@ -10,3 +10,5 @@ libft.h is a personal C library created as part of the 42 curriculum. It provide
 ### 🎯 Goal
 
 This project deepens my understanding of low-level C programming and memory management by reimplementing essential functions.
+
+![library](reading-stan-marsh.gif)
