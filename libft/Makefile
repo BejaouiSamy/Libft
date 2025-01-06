@@ -21,7 +21,7 @@ all: ${NAME}
 ${NAME}: ${OBJS}
 	${LIBC} ${NAME} ${OBJS}
 
-%.o: %.c libft.h
+%.o: %.c libft.h Makefile
 	${CC} ${CFLAGS} -c $< -o $@
 
 clean:
